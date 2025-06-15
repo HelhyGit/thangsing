@@ -16,5 +16,5 @@ if PlaceId == 7449423635 or PlaceId == 2753915549 or PlaceId == 4442272183 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/HelhyGit/thangsing/refs/heads/main/BF-Triple.lua"))()
 
 elseif UniverseID == 10260193230 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HelhyGit/thangsing/refs/heads/main/MMS-Triple.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HelhyGit/thangsing/refs/heads/main/Memesea.lua"))()
 end
